@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adaiso Ekpenyong
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Python, HTML, CSS and Java Script
+- 💞️ I’m looking to collaborate on Front End and Python related Projects
+- 📫 You can reach me on LinkedIn, Twitter and Instagram
 
 <!---
 Adaisoe/Adaisoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
