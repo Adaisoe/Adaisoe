@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adaiso Ekpenyong
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python, HTML, CSS and Java Script
-- 💞️ I’m looking to collaborate on Front End and Python related Projects
+- 💞️ I’m looking to grow my skills to become a great fullstack developer
 - 📫 You can reach me on LinkedIn, Twitter and Instagram
 
 <!---
